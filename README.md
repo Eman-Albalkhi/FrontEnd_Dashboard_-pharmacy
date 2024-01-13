@@ -6,22 +6,22 @@ A dashboard for a pharmacy is a visual representation of key performance indicat
 3- store 
 
 #### Admin Includes :
--Daily income per branch
--Weekly income per branch
--Monthly income per branch
--Yearly income per branch
--Yearly plan for profit, quantity, and price per quantity
--Quantity of products in each branch (per category)
+1. Daily income per branch
+1. Weekly income per branch
+1. Monthly income per branch
+1. Yearly income per branch
+1. Yearly plan for profit, quantity, and price per quantity
+1. Quantity of products in each branch (per category)
 Total medicine, total medicine food, total medicine supplies, total cosmetic
--Number of people currently using the website in each branch
--Daily purchase quantity in each branch
--Quantity of medicines that are about to run out
--The amount gained from expired medicines (due to recycling)
--Daily report including profit, sales, returns, debt, and loss
--Plan showing the quantity of medicines in all warehouses
--Monthly report: sales, profit, returns, debt, quantity of expired products, other supplies, shipping costs, taxes, employee salaries
--Top ten products sold in each branch
--Best warehouses
--Yearly report showing profit and loss over the past 10 years
--Search for a specific medicine and find out the quantity available in each branch
+1. Number of people currently using the website in each branch
+1. Daily purchase quantity in each branch
+1. Quantity of medicines that are about to run out
+1. The amount gained from expired medicines (due to recycling)
+1. Daily report including profit, sales, returns, debt, and loss
+1. Plan showing the quantity of medicines in all warehouses
+1. Monthly report: sales, profit, returns, debt, quantity of expired products, other supplies, shipping costs, taxes, employee salaries
+1. Top ten products sold in each branch
+1. Best warehouses
+1. Yearly report showing profit and loss over the past 10 years
+1. Search for a specific medicine and find out the quantity available in each branch
 
