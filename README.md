@@ -1,7 +1,7 @@
 # FrontEnd_Dashboard_-pharmacy
 A dashboard for a pharmacy is a visual representation of key performance indicators (KPIs) and metrics that provide a snapshot of the pharmacy's performance. It typically includes information about sales, inventory, customers, prescriptions, and employee performance. By using a dashboard, pharmacy owners and managers can quickly identify trends, track progress towards goals, and make data-driven decisions to improve the business.
 ### Leadership Dashboards
-1.  dmin 
+1.  Admin 
 1.  Employ
 1.  store 
 
